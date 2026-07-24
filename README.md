@@ -14,22 +14,22 @@ AI와의 음성 대화를 통해 한국어 회화를 연습하고, 문법·어�
 ### 🎙️ 음성 대화
 > 녹음한 음성을 STT로 변환해 AI와 대화, 응답은 TTS로 음성 재생
 
-![대화](assets/screenshots/chat-with-ai.png)
+<img src="assets/screenshots/chat-with-ai.png" width="250" alt="대화"/>
 
 ### 👩🏻‍🏫 회화 피드백
 > 문법 / 어휘 / 경어체(존댓말) 관점의 피드백 제공
 
-![피드백](assets/screenshots/feedbacks.png)
+<img src="assets/screenshots/feedbacks.png" width="750" alt="피드백"/>
 
 ### 💬 채팅 기록
 > 대화 목록 및 히스토리 조회
 
-![채팅 목록](assets/screenshots/chat-list.png)
+<img src="assets/screenshots/chat-list.png" width="250" alt="채팅 목록"/>
 
 ### 🏠 홈 피드 (통계)
 > 월별 대화 수, 대화 수 랭킹
 
-![홈](assets/screenshots/home-feed.png)
+<img src="assets/screenshots/home-feed.png" width="250" alt="홈"/>
 
 
 ## Tech Stack
